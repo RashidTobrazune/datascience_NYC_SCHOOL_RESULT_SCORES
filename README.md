@@ -1,3 +1,7 @@
+![pexels-pixabay-207692](https://github.com/RashidTobrazune/datascience_NYC_SCHOOL_RESULT_SCORES/assets/150378293/2317827f-8be3-49ed-8ed0-3edcc2f7ca45)
+![schoolbus](https://github.com/RashidTobrazune/datascience_NYC_SCHOOL_RESULT_SCORES/assets/150378293/1019260b-49f1-4578-9ba2-ca8f92c8ba7d)
+
+
 # datascience_NYC_SCHOOL_RESULT_SCORES
 I explored the New York Public Schools Test Result Scores
 Every year, American high school students take SATs, which are standardized tests intended to measure literacy, numeracy, and writing skills. There are three sections - reading, math, and writing, each with a maximum score of 800 points. These tests are extremely important for students and colleges, as they play a pivotal role in the admissions process.
